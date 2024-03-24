@@ -5,6 +5,6 @@
     ":dependencyDashboard"
   ],
   "baseBranches": [
-    "main"
+    "update-renovate"
   ]
 }
